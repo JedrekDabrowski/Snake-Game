@@ -1,0 +1,18 @@
+body {
+  background-color: #c0ec83;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-family: 'Roboto', sans-serif;
+}
+.game {
+  border-radius: 20px;
+  overflow: hidden;
+}
